@@ -6,7 +6,7 @@ import sys
 
 if __name__ == '__main__':
     # Call me from the CLI for example with:
-    # echo "My cat looks weirdly.\nThe neighbours cat too...\n" | python cli_replace.py cat dog
+    # echo "My cat looks weirdly. The neighbours cat too..." | python cli_program.py cat dog
     pattern = sys.argv[1]
     substitution = sys.argv[2]
 
