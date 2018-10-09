@@ -1,0 +1,18 @@
+# 3.txt
+# One answer per line. Leave a blank line to leave a question unanswered.
+# s[2]
+
+# s[4:6]
+
+# s[-4]
+
+# s[:10]
+
+# len(s)
+
+# 'A' in s
+
+# s.count(',')
+
+# s.find('15')
+
