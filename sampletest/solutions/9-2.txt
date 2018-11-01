@@ -1,0 +1,12 @@
+# 9-2.py
+quadratic
+
+Explanation:
+Worst-case scenario is that the longest word is in the end
+of the list. Since we have two for-loops that means that
+every time we hit one element in the outer loop, we will
+go through the inner loop (the entire list).
+So worst-case we will go through all the elements in the
+inner loop (n elements) and all the elements in the outer
+loop (n elements times n elements) before we found the
+largest element. In total that is n*n or n^2 or quadratic.

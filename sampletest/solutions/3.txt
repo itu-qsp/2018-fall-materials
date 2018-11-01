@@ -1,0 +1,18 @@
+# 3.txt
+# One answer per line. Leave a blank line to leave a question unanswered.
+# s[2]
+'y'
+# s[4:6]
+'15'
+# s[-4]
+'2'
+# s[:10]
+'May 15, 20'
+# len(s)
+12
+# 'A' in s
+False
+# s.count(',')
+1
+# s.find('15')
+4

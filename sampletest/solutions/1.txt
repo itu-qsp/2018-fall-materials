@@ -1,0 +1,23 @@
+# 1.txt
+# Your solutions to into the next lines, one answer per line.
+# Leave a blank line if you don't answer a question.
+# 3 * 4 + 16 / 3
+20.0
+# 5 ** 2 - 1
+24
+# 10 % 7
+3
+# 22 // 8
+2
+# True and True
+True
+# not (True or False)
+False
+# False == False
+True
+# int(5.8)
+5
+# float(16)
+16.0
+# str(24) * 2
+'2424'
