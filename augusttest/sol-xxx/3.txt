@@ -1,0 +1,18 @@
+# 3.txt
+# One answer per line. Leave a blank line to leave a question unanswered.
+# Assume that
+# ```python3
+# s = 'I want to '
+# t = 'ride my bicycle'
+# ```
+# What is printed?
+#
+# s[2]
+
+# 'y' in t
+
+# (s + t)[7:10]
+
+# t.count('y')
+
+# t.find('y')
